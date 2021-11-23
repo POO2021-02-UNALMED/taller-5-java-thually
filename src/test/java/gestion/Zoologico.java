@@ -28,7 +28,7 @@ public class Zoologico {
 		return cantidadTotal;
 	}
 	
-	public ArrayList<Zona> getZonas(){
+	public ArrayList<Zona> getZona(){
 		return zonas;
 	}
 
